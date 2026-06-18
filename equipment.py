@@ -16,3 +16,6 @@ class Equipment:
         self.bonuses = data["bonuses"]
         self.damage = data["damage"]
         self.feats = data["feats"]
+
+
+        test
