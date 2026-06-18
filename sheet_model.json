@@ -1,0 +1,10 @@
+{
+    "game_name": "",
+    "exp_style": 0, 
+    "stat_style": 0,
+    "dice_system": 0,
+    "favorited_style": 0,
+    "stats": {"Atributos":{"Fisicos": {"Fuerza": 1, "Destreza": 1, "Resistencia": 1, "Agilidad": 1}, "Sociales":{"Carisma": 2, "Constitucion": 2, "Apariencia": 1, "Sabiduria": 3}, "Mentales": {"Percepcion": 2, "Inteligencia": 4, "Astucia": 2, "Trance": 3}, "Suerte": {"Suerte": 3}}, "Habilidades": {"Talentos": {"Alerta": 0, "Atletismo": 0, "R. Info": 1}, "Tecnicas": {"Armas Caseras": 0, "Armas de Fuego": 0, "Armas C.C": 0}, "Conocimientos": {"Academicismo": 3, "Ciencia": 2, "Finanzas": 0}}, "Fuerza de Voluntad": 4, "Humanidad": 7},
+    "info": {"Nombre": "Test", "Jugador": "Test", "Naturaleza": "Caotica"},
+    "exp_cost": {"Atributos": "5*", "Habilidades": "2*", "Fuerza de Voluntad": "2*"}
+}

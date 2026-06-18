@@ -1,0 +1,37 @@
+{
+    "game_name": "Dead Light 1.0",
+    "exp_style": 1,
+    "stat_style": 1,
+    "dice_system": 0,
+    "favorited_style": 0,
+    "stats": {
+        "Atributos": {
+            "Fisicos": {
+                "Fuerza": 1,
+                "Destreza": 1,
+                "Resistencia": 1,
+                "Agilidad": 1
+            },
+            "Sociales": {
+                "Carisma": 2,
+                "Constitucion": 2,
+                "Apariencia": 1,
+                "Sabiduria": 3
+            },
+            "Mentales": {
+                "Percepcion": 2,
+                "Inteligencia": 4,
+                "Astucia": 2,
+                "Trance": 3
+            },
+            "Suerte": {
+                "Suerte2": 3
+            }
+        }
+    },
+    "info": {
+        "Nombre": "Test",
+        "Jugador": "Test",
+        "Naturaleza": "Caotica"
+    }
+}
